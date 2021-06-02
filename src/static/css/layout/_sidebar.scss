@@ -8,7 +8,7 @@
 
 	#sidebar {
 		margin-right: _size(section-spacing);
-		min-width: 16.75%;
+		min-width: 18%;
 		width: 20%;
 
 		> * {
@@ -23,11 +23,5 @@
 			padding-top: 0;
 		}
 
-		@include breakpoint(large) {
-			border-top: solid 1px _palette(border);
-			margin: _size(section-spacing) 0 0 0;
-			min-width: 0;
-			padding: _size(section-spacing) 0 0 0;
-			width: 100%;
-		}
+		
 	}
