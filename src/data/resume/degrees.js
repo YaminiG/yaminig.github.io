@@ -4,7 +4,7 @@ const degrees = [
     degree: 'M.S. Computer Engineering',
     link: 'https://ece.vt.edu/grad/masters',
     year: 2019,
-    gpa: 3.85,
+    gpa: 3.92,
   },
   {
     school: 'Vellore Institute of Technology',
