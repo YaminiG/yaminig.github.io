@@ -1,51 +1,56 @@
+import React, { useState, useEffect } from 'react';
 import dayjs from 'dayjs';
 
 /* Keys match keys returned by the github api. Fields without keys are
  * mostly jokes. To see everything returned by the github api, run:
  curl https://api.github.com/repos/mldangelo/personal-site
  */
+const Age = () => {
+  const [age, setAge] = useState();
+
+  const tick = () => {
+    const divisor = 1000 * 60 * 60 * 24 * 365.2421897; // ms in an average year
+    const birthTime = new Date('1994-11-04T11:00:00');
+    setAge(((Date.now() - birthTime) / divisor).toFixed(11));
+  };
+
+  useEffect(() => {
+    const timer = setInterval(() => tick(), 25);
+    return () => {
+      clearInterval(timer);
+    };
+  }, []);
+  return <>{age}</>;
+};
+
 const data = [
   {
-    label: 'Stars this repository has on github',
-    key: 'stargazers_count',
-    link: 'https://github.com/mldangelo/personal-site/stargazers',
+    key: 'age',
+    label: 'Current age',
+    value: <Age />,
   },
   {
-    label: 'Number of people watching this repository',
-    key: 'subscribers_count',
-    link: 'https://github.com/mldangelo/personal-site/stargazers',
+    key: 'countries',
+    label: 'Countries visited',
+    value: 3,
+    link:
+      'https://www.google.com/maps/d/embed?mid=1iBBTscqateQ93pWFVfHCUZXoDu8&z=2',
   },
   {
-    label: 'Number of forks',
-    key: 'forks',
-    link: 'https://github.com/mldangelo/personal-site/network',
+    key: 'location',
+    label: 'Current city',
+    value: 'Raleigh, NC',
   },
   {
-    label: 'Number of spoons',
-    value: '0',
-  },
-  {
-    label: 'Number of linter warnings',
-    value: '0', // enforced via github workflow
-  },
-  {
-    label: 'Open github issues',
-    key: 'open_issues_count',
-    link: 'https://github.com/mldangelo/personal-site/issues',
+    key: 'coffee',
+    label: 'Average number of coffee cups a day',
+    value: '2',
   },
   {
     label: 'Last updated at',
     key: 'pushed_at',
     link: 'https://github.com/mldangelo/personal-site/commits',
     format: (x) => dayjs(x).format('MMMM DD, YYYY'),
-  },
-  {
-    // TODO update this with a pre-commit hook
-    /* find . | grep ".js" | grep -vE ".min.js|node_modules|.git|.json" |
-    xargs -I file cat file | wc -l */
-    label: 'Lines of Javascript powering this website',
-    value: '2115',
-    link: 'https://github.com/mldangelo/personal-site/graphs/contributors',
   },
 ];
 

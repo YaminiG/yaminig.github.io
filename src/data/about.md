@@ -1,101 +1,70 @@
 
 # Intro
 
-I am a co-founder and the CTO of [Arthena](https://arthena.com) where I build tools to price fine art quickly, accurately, and at scale. I also advise startups, and I invest in people and ideas through a [small venture fund](https://skepticalinvestments.biz). I am particularly interested in projects that touch health and safety, imaging, social impact, and aerospace. If you think I can be helpful to you or would like to meet me, please feel free to get in touch.
+I am a Software Engineer at Citrix based out of San Francisco, CA. I graduated from Virginia Tech with a Masters degree in Computer Engineering in 2019. 
+At Citrix, I work on building automation, reporting and analytics tools and dashboards for teams across the company. The most fun part about my job is providing automation solutions to mundane tasks that saves time and effort and reduces the bandwidth for error. My goal as a Software Engineer is to focus on good design, scalability and deliver clean, efficient and extensible solutions. I am particularly interested in projects related to social impact, music, art and culture. 
 
 # Currently
 
-At Arthena, I have learned how to build teams, manage people, shape culture, develop relationships with customers, sell enterprise products, and build on-line predictive models with technologies like [Dask](https://dask.org/), [Dagster](https://dagster.io/), [TensorFlow](https://www.tensorflow.org/), and [spaCy](https://spacy.io/). I primarily work as a data engineer but have broad experience across Arthena’s stack.
+At Citrix, I have learned how to work in an agile environment, collaborate across different teams, shape customer demands into actionable tasks and deliver solutions with technologies like C#, React, Python and PowerBi.
 
 # Some history
 
-- My parents put a computer in my bedroom in 1993 when I was 3. It was an old Tandy that ran MS-DOS. My favorite games were Street Rod 2, Wolfenstein 3D, and Tom and Jerry. It had a mechanical keyboard and a turbo button. To this day, I still don't know what pressing the turbo button really did.
+- My parents got my sister and I a computer in 2001 with Windows 98 with a mechanical keyboard. For the next 3-4 years, my sister and I played the living daylights out of Need For Speed, Max Payne and Road Rash.
 
-- We subscribed to AOL in 1995. I still remember installing it from a floppy disk onto our brand new Packard Bell. It took years for me to send my first email.
+- At 7, I learned Logo at school and spent all my time drawing complicated shapes like hexagons and heptagons. 
 
-- In the summer of 1996, my uncle purchased [MegaRace](https://en.wikipedia.org/wiki/MegaRace) from [Media Play](https://en.wikipedia.org/wiki/Media_Play) and installed it on my mom's work computer. I might have endangered her business by using her computer too much.
+- At 8, after learning Q-Basic at school, I held a Q-Basic quiz party at my home. The invitees are my friends to this day and I am as confused by this as you are.
 
-- At 7, I discovered the mini-games hidden in Microsoft Office. I also beat Minesweeper on expert for the first time.
+- By 9, I had mastered the art of adding teeth gaps to my sister's pictures using MS Paint. That year, I won my first inter-school competition for MS Paint Artistry (yes, its a thing).
 
-- At 8, my parents bought me a Sony Mavica MVC-FD71 digital camera after I stole their SLR one too many times. It could fit 10 images to a floppy disk at a 0.3MP resolution. I still have it and it still works. I've been taking photographs ever since, now with a Nikon D750, D800, and occasionally with a Mamiya 6II.
+- At 12, I built my first website using HTML dedicated to Harry Potter. Terrible would be a kind word to describe it. This was also the year I sent my first email using Yahoo Mail.
 
-- At 10, I built my first website with Microsoft FrontPage on our Pentium III [Gateway](https://en.wikipedia.org/wiki/Gateway,_Inc.). My website was terrible.
+- At 14, I joined the Animation Club of my school and started tinkering with Adobe Flash to make short clips. I learned about frames, scenes, objects, transitions, morphing and layering. It was a lot of fun! That same year, I participated in an inter-school animated short film competition and made it to the semi-finals.
 
-- I was 11 when I built my first [Tesla Coil](https://en.wikipedia.org/wiki/Tesla_coil) (without the permission of my parents). Over the next few years, I built several more including one of the first audio modulated coils and one of the first DRSSTCs.
+- At 15, I was one of the 25 people selected worldwide to make a short independent film organized by the Tony Blair Faith Foundation. After filming 20-25 hours of footage, I learned how to use Audacity and Sony Vegas Pro to edit and add sound and transition effects. 
 
-- When I was 12, I set the all-time high record at my local laser tag facility by reverse engineering the charging station and weapon protocols with a photo-resistor, micro-cassette recorder, and a lot of patience. I was unstoppable.
+- At 16, I took my first high school Computer Science class. I built another website (less terrible than the first one) using HTML, ASP and CSS. My final project for the class was the website for Papa Johns (I still have the source code for it).
 
-- At 13, I went to space camp and fell in love. I went back two more times and promised myself that I'd work in space. I've since helped build three generations of satellites and have contributed to two more.
+- At 17, I decided to pursue a degree in Electronics and Communication Engineering from VIT (Vellore Institute of Technology), Tamil Nadu. That year, I took courses on Data Structures using C. While the course was an uphill battle, I discovered my penchant for problem solving and programming.
 
-- At 14, I was almost expelled for finding a backdoor into my high school's file server and telling everyone but the faculty members about it. Later that year, I figured out how to turn off the internet firewall by editing system registry keys. I anonymously shared my work months later.
+- At 18, I utilized the summer to do a 3 month long intensive course in Java. That summer, I took a deep dive into Data Structures and OOP concepts. I built tic-tac-toe and tamogotchi games for the final submission.
 
-- At 16, I participated in a foreign exchange program in Dortmund, Germany. Since then, I've gone back almost every year.
+- At 19, a few friends and I formed a group called The Dumbledore's Army where we would meet at the library thrice a week to work on projects/ do competitive programming/ brush up on our coding skills. It was a great environment to teach, learn, clear our doubts and cement our fundamentals.
 
-- 14 - 17, I played a lot of video games. My favorites included Counter Strike Source, Command and Conquer 3, Halo 2, and Age of Empires II.
+- At 20, I took a course in Microcontroller Interfacing and thoroughly enjoyed it. I went on to become a Graduate Teaching Assistant for the same course for 3 semesters at Virginia Tech.
 
-- At 18, In the summer before college, my friends and I started playing [Muggle Quidditch](https://en.wikipedia.org/wiki/Quidditch_(sport)). We went on to start over 8 teams in the [International Quidditch Association](https://en.wikipedia.org/wiki/International_Quidditch_Association) including the [Buffalo Quidditch Society](https://www.facebook.com/buffaloquidditch/). At our height, we were ranked third in the IQA. Although I don't play anymore, you can still see pictures of me holding a broom while wearing a chess camp t-shirt on facebook.
+- At 21, I built a cellphone charging station with a coin sensor and a built-in entertainment system using Raspberry Pi. The entertainment system comprised of a jukebox or two 'arcade-like' games coded into the pi. At the final demo, the head of department charged her cellphone while blasting AC/DC on my setup. It was a good day.
 
-- At 19, I took my first graduate course and published my first academic paper.
 
-- At 20, I co-authored a grant to build a satellite and managed a 60+ person team for the next two years. You can read more about that [here](https://ubnl.space/glados/).
-
-Ask me in person for other stories that I'm afraid to share with the internet.
+My more recent projects can be found under the Projects section. Ask me in person for other stories that I'm afraid to share on the internet.
 
 # I like
 
-- Running
-- Skiing
-- Sailing and the sea
-- Space
+- [Books](https://www.goodreads.com/user/show/126685725-yamini-gaur)
+- Writing
+- Listening to music
+- Hanging out with pets
+- Art Galleries
 - Summer
-- [Books](https://www.goodreads.com/mdangelo)
-- Colored pencils ([Faber-Castell Polychromos](https://www.faber-castell.com/products/art-and-graphic/polychromos))
-- Podcasts ([The Daily](https://www.nytimes.com/column/the-daily), [Planet Money](https://www.npr.org/sections/money/), [The Indicator](https://www.npr.org/podcasts/510325/the-indicator-from-planet-money), [This American Life](https://www.thisamericanlife.org/), [99% Invisible](https://99percentinvisible.org/episodes/), [The Economist](http://radio.economist.com/), [Radiolab](https://www.wnycstudios.org/shows/radiolab), [Hidden Brain](https://www.npr.org/series/423302056/hidden-brain), [Inquiring Minds](https://inquiring.show), and others)
+- Coffee (Expresso, Iced Latte, Cappuccino, Drip Coffee, Filter Coffee, Cold Brew)
+- Tiramisu
 - [Good design](/)
-- [Photography](https://instagram.com/dangelosaurus)
-
-# Travel / Geography
-
-- I am from originally from Buffalo, New York. I have since lived in Palo Alto, Mountain View, San Francisco, Seattle, and New York.
-- I've been to ~ 50 countries, some of which I have forgotten, and many of which I would like to revisit.
-- In 2016, I visited: Canada, Ethiopia, Austria, Germany, Belgium, Ireland, Northern Ireland, Italy, Romania, Sweden, Norway, Svalbard, Panama, Costa Rica, Uganda, Japan, and the UAE, mostly in that order.
-- In 2017, I visited: Canada, Japan, Denmark, Germany, Sweden, Estonia, Russia, the Netherlands, Belgium, the U.K., Spain, Iceland, France, Switzerland, Ethiopia, and Luxembourg.
-- In 2018, I visited: Canada, France, Italy, Israel, and the U.K.
-- In 2019, I visited: Canada, England, France, and Switzerland.
-- In 2020, I barely traveled 20 blocks. I stayed in New York and remodeled an apartment.
-- In 2021, I hope to start traveling again.
-- I am an Oregon Trail II enthusiast.
 
 # Fun facts
 
-- I have a list of thousands of ideas, like creating matching bow ties for cats and humans.
-- I almost always have a sketchbook with me and a [01 Sakura Pigma Micron Pen](https://www.sakuraofamerica.com/product/pigma-micron/).
-- I can't locate every country on a map.
-- I operate a [small angel fund](http://skepticalinvestments.biz/) with terrible returns.
-- I break about 30 traffic laws on a [cruiser](https://landyachtz.com/boards/cruiser/), [onewheel](https://onewheel.com/products/xr), [bicycle](https://www.citibikenyc.com/), or [electric skateboard](https://boostedusa.com/collections/electric-skateboards/products/boosted-mini-x) every single day.
-- I added this page because so many people complained that my site was just my resume.
+- I am currently working on a passion project to build a playlist generator using Spotify's REST API.
+- I am almost always reading something. Currently, I am reading The Master and Margarita by Mikhail Bulgakov. 
+- I am a huge Arctic Monkeys fan. I got introduced to them in 2008 with [Fluorescent Adolescent](https://www.youtube.com/watch?v=ma9I9VBKPiw). It's still one of my favourite songs by them. I got the opportunity to see them live in 2018. Best day of my life.
 
-# I dream of
+# Places I have lived
 
-- always finding inspiration.
-- enabling a brighter future.
-- doing better.
-- you not checking the commit history for earlier drafts of this file.
+- New Delhi, India
+- Vellore, TN, India
+- Blacksburg, VA, USA
+- Washington DC, USA
+- Raleigh, NC, USA
 
-# Websites from people I admire
 
-- [Alex Peysakhovich](http://alexpeys.github.io/)
-- [Chris Lengerich](http://www.chrislengerich.com/)
-- [Chris Saad](https://www.chrissaad.com/)
-- [Duncan Tomlin](http://duncantomlin.com/)
-- [Hawley Moore](http://hawleymoore.com/)
-- [Holman Gao](https://golmansax.com/)
-- [Ian Webster](http://ianww.com/)
-- [Johanna Flato](https://www.johannaflato.com/)
-- [Judy Mou](http://www.judymou.com/)
-- [Kristina Monakhova](https://kristinamonakhova.com/)
-- [Noah Trueblood](http://notrueblood.com/)
-- [Ruoxi Wang](http://ruoxiw.com/)
-- [Tom Sachs](https://www.tomsachs.org/)
 
-If we are friends and you feel like you belong on this list, you're probably right. I'm sorry I forgot about you. Pester me and I'll add you.
+

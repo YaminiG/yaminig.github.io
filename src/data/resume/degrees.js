@@ -1,15 +1,17 @@
 const degrees = [
   {
-    school: 'Stanford University',
-    degree: 'M.S. Computational and Mathematical Engineering',
-    link: 'https://stanford.edu',
-    year: 2016,
+    school: 'Virginia Tech',
+    degree: 'M.S. Computer Engineering',
+    link: 'https://ece.vt.edu/grad/masters',
+    year: 2019,
+    gpa: 3.85,
   },
   {
-    school: 'University at Buffalo',
-    degree: 'B.S. Electrical Engineering, Computer Engineering',
-    link: 'https://buffalo.edu',
-    year: 2012,
+    school: 'Vellore Institute of Technology',
+    degree: 'B.S. Electronics and Communication Engineering',
+    link: 'https://vit.ac.in/',
+    year: 2017,
+    gpa: 8.72,
   },
 ];
 

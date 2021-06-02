@@ -1,32 +1,41 @@
 import React from 'react';
-import { Link } from 'react-router-dom';
+import Typewriter from 'typewriter-effect';
+import Main from '../layouts/landing';
 
-import Main from '../layouts/Main';
-
+const data = [
+  { name: 'Software Engineer' },
+  { name: 'Coffee Drinker' },
+  { name: 'Music Listener' },
+  { name: 'Reader' },
+  { name: 'Extremely Good (loosely used) Badminton Player' },
+  { name: 'Writer' },
+  { name: 'Ukulele Owner' },
+  { name: 'Pasta Eater' },
+  { name: 'Cat Whisperer (they don\'t listen)' },
+  { name: 'Panic Attack Haver' },
+];
+const colors = ['#4FA3A5', '#684C40', '#FDAE38', '#F65436', '#581444'];
+const strs = [];
+for (let i = 0; i < data.length; i += 1) { // loop runs for every superhero
+  strs.push(`<font color=${colors[i % colors.length]}> ${data[i].name}</font>`);
+}
 const Index = () => (
   <Main
-    description={"Michael D'Angelo's personal website. New York based Stanford ICME graduate, "
-    + 'co-founder and CTO of Arthena, and YC Alumni.'}
+    description={"Yamini Gaur's personal website. Raleigh based Virginia Tech Graduate, "
+      + 'Software Engineer @ Citrix Systems'}
   >
-    <article className="post" id="index">
-      <header>
-        <div className="title">
-          <h2 data-testid="heading"><Link to="/">About this site</Link></h2>
-          <p>
-            A beautiful, responsive, statically-generated,
-            react application written with modern Javascript.
-          </p>
-        </div>
-      </header>
-      <p> Welcome to my website. Please feel free to read more <Link to="/about">about me</Link>,
-        or you can check out my {' '}
-        <Link to="/resume">resume</Link>, {' '}
-        <Link to="/projects">projects</Link>, {' '}
-        view <Link to="/stats">site statistics</Link>, {' '}
-        or <Link to="/contact">contact</Link> me.
+    <div className="test">
+      <h1>
+        <b><center>Yamini Gaur</center></b>
+      </h1>
+      <p>
+        <center>
+          <Typewriter options={{ strings: strs, autoStart: true, loop: true }} />
+        </center>
       </p>
-      <p> Source available <a href="https://github.com/mldangelo/personal-site">here</a>.</p>
-    </article>
+      <br />
+      <center><p><a href="./about">About </a> &nbsp; | &nbsp;   <a href="./resume">Resume </a> &nbsp; | &nbsp;   <a href="./projects">Projects </a> &nbsp; | &nbsp; <a href="./contact">Contact </a></p></center>
+    </div>
   </Main>
 );
 

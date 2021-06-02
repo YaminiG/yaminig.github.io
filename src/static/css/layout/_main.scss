@@ -10,4 +10,15 @@
 		@include vendor('flex-grow', '1');
 		-ms-flex: 1;
 		width: 100%;
+		.test{
+			margin-top: 8%;
+			h1 {
+				font-size: 4.5em;
+			}
+			p {
+				font-size: 1.75em;
+			}
+		}
+		
+		
 	}

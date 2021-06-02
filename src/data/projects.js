@@ -1,47 +1,45 @@
 // TODO Add a couple lines about each project
 const data = [
   {
-    title: 'Nearest Dollar',
-    subtitle: '2015 BVP Hackathon',
-    image: '/images/projects/nearestdollar.jpg',
-    date: '2015-11-20',
+    title: 'Improving the Computational Efficiency of Deep Neural Networks using Filter Approximation Techniques',
+    subtitle: 'Masters Thesis',
+    image: '/images/projects/cnn.png',
+    date: '2019-05-01',
     desc:
-      'Built for a social impact hackathon. '
-      + 'NearestDollar connected to your bank accounts, credit cards, '
-      + 'or debit cards and rounded up your purchases to donate the balance to '
-      + 'the charity of your choice.',
+      'Implemented a dynamic, input dependent filter approximation and selection technique to improve the computational efficiency of deep neural networks. The approximation techniques convert 32 bit floating point filter weights in the convolutional and fully connected layers of the network into smaller precision values. This is done by reducing the number of bits used to represent the weights.',
   },
   {
-    title: 'Harvest',
-    subtitle: 'Won 3rd. place in 2015 Techcrunch Disrupt SF Hackathon',
+    title: '16 Squares of Blacksburg',
+    subtitle: 'AR Application showing the architectural history of Blacksburg',
     link: 'https://devpost.com/software/harvest',
-    image: '/images/projects/harvest.jpg',
-    date: '2015-09-20',
+    image: '/images/projects/AR.jpeg',
+    date: '2018-05-20',
     desc:
-      'Won ~ $7000 in prizes for an advanced, low cost monitoring solution '
-      + 'for crops. Harvest was designed to catch irrigation leaks, overwatering, '
-      + 'and nutrient deficiencies at an affordable price for the developing world.',
+      'Built an Augmented Reality App called 16 Squares of Blacksburg in C# and designed on Unity using Vuforia SDK to demonstrate the history of Blacksburg. Using 3D object models of 50+ buildings, the app was aimed to be an used as an educational tool where users could click on a building to get information about it along with a variety of interaction techniques like pinch to zoom, slide to rotate etc.',
   },
   {
-    title: 'Space Potato',
-    subtitle: 'A kickstarter funded potato powered weather balloon.',
+    title: 'Text Summarization using Deep Learning',
+    subtitle: 'Utilizing text processing and deep learning to summarize a corpus of data on Hurricane Irma',
     link: 'http://www.spacepotato.org',
-    image: '/images/projects/spacepotato.jpg',
-    date: '2015-06-28',
+    image: '/images/projects/TextSummarization.jpg',
+    date: '2018-12-28',
     desc:
-      'Launched a potato battery powered weather balloon with two cameras '
-      + 'and gps transponder. Resulting photos were published in a coffee table book. '
-      + 'You can email me for a copy.',
+      'Performed abstractive text summarization on a Hurricane Irma dataset containing more than 16,000 documents.'
+       + 'Some of the initial tasks included tweet and web page analysis followed by performing several'
+      + 'text cleaning and boilerplate removal tasks such as custom stop word removal, lemmatization, tokenization and POS tagging'
+      + 'using Python’s NLTK Toolkit. Post data preprocessing, the text summarization was performed by using a deep learning model'
+      + 'called the Pointer Generator Network using TensorFlow.',
   },
   {
-    title: 'Cat Detector',
-    subtitle: 'A convolutional neural network to classify cats! (and dogs)',
+    title: 'Cellphone Charging Station using Raspberry Pi',
+    subtitle: 'Charge your phone while staying entertained!',
     image: '/images/projects/catdetector.jpg',
-    date: '2015-05-15',
+    date: '2017-05-15',
     desc:
-      'Trained a convolutional neural network to classify between ~ 80 cats breeds. '
-      + 'Over 60,000 cats were classified before server bills made the project too expensive '
-      + 'to continue hosting.',
+      'Built a cellphone charger and entertainment station using Raspberry Pi 3 and a coin sensor.'
+      + 'The coin sensor detected the value of the coin and ran the system for a pre-programmed amount of time. '
+      + ' Along with the charging unit, I also integrated a floppy bird game and snake-maze game along with a jukebox into the Pi.'
+      + ' The user could select their mode of entertainment while the phone would charge.',
   },
 ];
 
