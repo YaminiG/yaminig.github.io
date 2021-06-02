@@ -7,17 +7,16 @@ const data = [
   { name: 'Coffee Drinker' },
   { name: 'Music Listener' },
   { name: 'Reader' },
-  { name: 'Extremely Good (loosely used) Badminton Player' },
-  { name: 'Writer' },
   { name: 'Ukulele Owner' },
   { name: 'Pasta Eater' },
-  { name: 'Cat Whisperer (they don\'t listen)' },
+  { name: 'Writer' },
   { name: 'Panic Attack Haver' },
+  { name: 'Great (loosely used) Minecraft Player' },
 ];
 const colors = ['#4FA3A5', '#684C40', '#FDAE38', '#F65436', '#581444'];
 const strs = [];
 for (let i = 0; i < data.length; i += 1) { // loop runs for every superhero
-  strs.push(`<font color=${colors[i % colors.length]}> ${data[i].name}</font>`);
+  strs.push(`<TT><font color=${colors[i % colors.length]}> ${data[i].name}</font></TT>`);
 }
 const Index = () => (
   <Main
@@ -30,7 +29,11 @@ const Index = () => (
       </h1>
       <p>
         <center>
-          <Typewriter options={{ strings: strs, autoStart: true, loop: true }} />
+          <div className="dynamic">
+            <p>
+              <Typewriter options={{ strings: strs, autoStart: true, loop: true }} />
+            </p>
+          </div>
         </center>
       </p>
       <br />

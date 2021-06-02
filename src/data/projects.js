@@ -11,7 +11,7 @@ const data = [
   {
     title: '16 Squares of Blacksburg',
     subtitle: 'AR Application showing the architectural history of Blacksburg',
-    link: 'https://devpost.com/software/harvest',
+    link: 'https://www.youtube.com/watch?v=QxmlbWkX-e4',
     image: '/images/projects/AR.jpeg',
     date: '2018-05-20',
     desc:
@@ -20,7 +20,7 @@ const data = [
   {
     title: 'Text Summarization using Deep Learning',
     subtitle: 'Utilizing text processing and deep learning to summarize a corpus of data on Hurricane Irma',
-    link: 'http://www.spacepotato.org',
+    link: 'https://vtechworks.lib.vt.edu/handle/10919/86372',
     image: '/images/projects/TextSummarization.jpg',
     date: '2018-12-28',
     desc:
@@ -33,7 +33,8 @@ const data = [
   {
     title: 'Cellphone Charging Station using Raspberry Pi',
     subtitle: 'Charge your phone while staying entertained!',
-    image: '/images/projects/catdetector.jpg',
+    link: 'https://www.youtube.com/watch?v=FclGnrLOyYU',
+    image: '/images/projects/rasp.jpeg',
     date: '2017-05-15',
     desc:
       'Built a cellphone charger and entertainment station using Raspberry Pi 3 and a coin sensor.'
