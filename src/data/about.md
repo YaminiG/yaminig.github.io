@@ -41,7 +41,7 @@ My more recent projects can be found under the Projects section. Ask me in perso
 
 - [Books](https://www.goodreads.com/user/show/126685725-yamini-gaur)
 - Writing
-- [Listening to music][https://open.spotify.com/user/yaminigaur01]
+- [Listening to music](https://open.spotify.com/user/yaminigaur01)
 - Hanging out with pets
 - Art Galleries
 - Summer
