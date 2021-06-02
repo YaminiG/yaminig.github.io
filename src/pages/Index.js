@@ -8,9 +8,9 @@ const data = [
   { name: 'Music Listener' },
   { name: 'Reader' },
   { name: 'Ukulele Owner' },
-  { name: 'Pasta Eater' },
+  { name: 'Cat Whisperer (they never listen)' },
   { name: 'Writer' },
-  { name: 'Panic Attack Haver' },
+  { name: 'Pasta Eater' },
   { name: 'Great (loosely used) Minecraft Player' },
 ];
 const colors = ['#4FA3A5', '#684C40', '#FDAE38', '#F65436', '#581444'];
