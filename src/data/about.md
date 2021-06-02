@@ -12,13 +12,11 @@ At Citrix, I have learned how to work in an agile environment, collaborate acros
 
 - My parents got my sister and I a computer in 2001 with Windows 98 with a mechanical keyboard. For the next 3-4 years, my sister and I played the living daylights out of Need For Speed, Max Payne and Road Rash.
 
-- At 7, I learned Logo at school and spent all my time drawing complicated shapes like hexagons and heptagons. 
+- At 7, I learned Logo at school and spent all my time drawing complicated shapes like pentagons and hexagons. 
 
 - At 8, after learning Q-Basic at school, I held a Q-Basic quiz party at my home. The invitees are my friends to this day and I am as confused by this as you are.
 
-- By 9, I had mastered the art of adding teeth gaps to my sister's pictures using MS Paint. That year, I won my first inter-school competition for MS Paint Artistry (yes, its a thing).
-
-- At 12, I built my first website using HTML dedicated to Harry Potter. Terrible would be a kind word to describe it. This was also the year I sent my first email using Yahoo Mail.
+- At 12, I built my first website using HTML dedicated to Harry Potter. Terrible would be a kind word to describe it.
 
 - At 14, I joined the Animation Club of my school and started tinkering with Adobe Flash to make short clips. I learned about frames, scenes, objects, transitions, morphing and layering. It was a lot of fun! That same year, I participated in an inter-school animated short film competition and made it to the semi-finals.
 
