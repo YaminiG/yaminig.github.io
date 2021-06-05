@@ -45,7 +45,7 @@ My more recent projects can be found under the Projects section. Ask me in perso
 - Hanging out with pets
 - Art Galleries
 - Summer
-- Coffee (Expresso, Iced Latte, Cappuccino, Drip Coffee, Filter Coffee, Cold Brew)
+- Coffee (Espresso, Iced Latte, Cappuccino, Drip Coffee, Filter Coffee, Cold Brew)
 - Tiramisu
 - [Good design](/)
 
